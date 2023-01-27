@@ -1,4 +1,4 @@
-<img src="self-portrait.jpg" alt="My Self Portrait." />
+<img src="self-portrait.jpg" width="400" height="250" alt="My Self Portrait." />
 
 ## OmniGigas
 
