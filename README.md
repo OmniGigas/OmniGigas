@@ -1,4 +1,4 @@
-<img src="" alt="My test image" />
+<img src="self-portrait.jpg" alt="My Self Portrait." />
 
 ## OmniGigas
 
