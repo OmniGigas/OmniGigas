@@ -1,6 +1,6 @@
 <img src="self-portrait.jpg" width="400" height="300" alt="My Self Portrait." />
 
-## OmniGigas
+## Taoyuan Zhang
 
 Hi there. I'm Taoyuan Zhang but please call me Tom. I was born is Shanghai, China and brought to
 
