@@ -2,8 +2,10 @@
 
 ## Taoyuan Zhang
 
-Hi there. I'm Taoyuan Zhang but please call me Tom. I was born is Shanghai, China and brought to
+Hello there. I'm Taoyuan Zhang. I like to play games, watch anime 
 
-the United States by my parents at the age of 6. I'm currently working full-time at a small retail
+and draw. I'm currently challenging myself to learn web design. 
 
-store that sells mostly online. I do a lot of gaming and manga art as my hobbies.
+Hopefully by the end of all this, I can land a job as a web 
+
+developer ... assuming my sanity remains of course. LOL
