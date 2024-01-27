@@ -2,7 +2,7 @@
 
 ## Taoyuan Zhang
 
-Hello there. I'm Taoyuan Zhang. I like to play games, watch anime 
+> Hello there. I'm Taoyuan Zhang. I like to play games, watch anime 
 
 and draw. I'm currently challenging myself to learn web design. 
 
